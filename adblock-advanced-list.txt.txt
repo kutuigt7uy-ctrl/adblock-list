@@ -1,0 +1,48 @@
+# AdBlock Advanced List (Ads + Tracking + Malware)
+
+0.0.0.0 doubleclick.net
+0.0.0.0 googleadservices.com
+0.0.0.0 googlesyndication.com
+0.0.0.0 adservice.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 tpc.googlesyndication.com
+
+0.0.0.0 adbrite.com
+0.0.0.0 adf.ly
+0.0.0.0 adcash.com
+0.0.0.0 admob.com
+0.0.0.0 adroll.com
+0.0.0.0 adserver.yahoo.com
+0.0.0.0 partner.googleadservices.com
+0.0.0.0 scorecardresearch.com
+0.0.0.0 tracking.yahoo.com
+0.0.0.0 analytics.yahoo.com
+
+# Tracking
+0.0.0.0 spclient.wg.spotify.com
+0.0.0.0 log.spotify.com
+0.0.0.0 api.segment.io
+0.0.0.0 track.adform.net
+0.0.0.0 analytics.twitter.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.facebook.com
+0.0.0.0 pixel.facebook.com
+
+# Malware / Spyware
+0.0.0.0 malware.testcategorydomain.com
+0.0.0.0 badsite.example
+0.0.0.0 maliciousdomain.com
+0.0.0.0 phishingdomain.net
+0.0.0.0 trojantracker.com
+0.0.0.0 botnetcommand.com
+0.0.0.0 fakeupdate.com
+0.0.0.0 ransomwaredomain.org
+0.0.0.0 spyware.example.net
+
+# Extra — Ad Block
+0.0.0.0 ads.example.com
+0.0.0.0 tracking.example.net
+0.0.0.0 malware.example.org
